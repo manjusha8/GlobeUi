@@ -28,6 +28,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
+  cloud_firestore: ^0.13.5
+  firebase_auth: ^0.16.0
+  firebase_core: ^0.4.5
+  firebase_analytics: ^5.0.2
+  provider: ^3.0.0
+
 
 dev_dependencies:
   flutter_test:
@@ -47,9 +53,32 @@ flutter:
     - images/oval-2@2x.jpg
     - images/special-promos.jpg
     - images/latest-promos.jpg
-    - images/spotify.jpg
+    - images/spotify.png
+    - images/insta-icon.png
     - images/globe-rewards.png
     - play-icon.png
+    - images/Netflix.jpg
+    - images/stranger-things.jpg
+    - images/13-reasons-why.jpg
+    - images/prime.jpg
+    - images/facebook.jpg
+    - images/facebook-icon.png
+    - images/roaming-plans.jpg
+    - images/iflix.jpg
+    - images/hq.jpg
+    - images/aldo.jpg
+    - images/raffles.jpg
+    - images/clothing.jpg
+    - images/hair-spa.jpg
+    - images/mobile.png
+    - images/more-s.png
+    - images/wallet-s.png
+    - images/lifestyle-s.png
+    - images/globe.png
+    - mock/balance_data.json
+    - mock/latest_promos.json
+    - mock/recommended_data.json
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

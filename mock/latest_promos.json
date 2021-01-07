@@ -1,0 +1,47 @@
+{
+
+
+  "latest_promos": [
+    {
+      "id":0,
+      "title": "Spotify",
+      "subtitle": "Premium",
+      "images": "images/latest-promos.jpg",
+      "images_icon": "images/spotify.png"
+    },
+
+
+
+    {
+      "id":1,
+      "title": "Facebook",
+      "subtitle": "Surf",
+      "images": "images/facebook.jpg",
+      "images_icon": "images/facebook-icon.png"
+    },
+
+
+
+    {
+      "id":2,
+      "title": "Instagram",
+      "subtitle": "Posts",
+      "images": "images/latest-promos.jpg",
+      "images_icon": "images/insta-icon.png"
+    },
+    {
+      "id":3,
+      "title": "Facebook",
+      "subtitle": "Surf",
+      "images": "images/facebook.jpg",
+      "images_icon": "images/facebook-icon.png"
+    },
+    {
+      "id":4,
+      "title": "Facebook",
+      "subtitle": "Surf",
+      "images": "images/facebook.jpg",
+      "images_icon": "images/facebook-icon.png"
+    }
+  ]
+}

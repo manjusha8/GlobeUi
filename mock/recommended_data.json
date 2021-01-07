@@ -1,0 +1,29 @@
+{
+  "recommended_data": [
+    {
+      "id":0,
+      "title": "GoUNLI350",
+      "days": "30 days UNLI to Globe"
+    },
+    {
+      "id":1,
+      "title": "GoUNLI350",
+      "days": "15 days UNLI to Globe"
+    },
+    {
+      "id":2,
+      "title": "GoUNLI350",
+      "days": "10 days UNLI to Globe"
+    },
+    {
+      "id":3,
+      "title": "GoUNLI350",
+      "days": "15 days UNLI to Globe"
+    },
+    {
+      "id":4,
+      "title": "GoUNLI350",
+      "days": "15 days UNLI to Globe"
+    }
+  ]
+}

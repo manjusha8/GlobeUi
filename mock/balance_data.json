@@ -1,0 +1,32 @@
+{
+  "balancedata": [
+{
+  "id":0,
+  "image": "images/play-icon.png",
+  "category": "load balance",
+  "data": "P 1675.00",
+  "validity": "Validity"
+
+},
+    {
+      "id": 1,   "image": "images/play-icon.png",
+      "category": "Data Balance", "data": "300 MB", "validity": "of 12 GB"
+    },
+    {
+      "id": 2,  "image": "images/play-icon.png",
+      "category": "Data Balance", "data": "1.6 GB", "validity": "of 12 GB"
+    },
+    {
+      "id": 3,  "image": "images/play-icon.png",
+      "category": "Bill Amount", "data": "P 2999.00", "validity": "Due on 2 Dec"
+    },
+    {
+      "id": 4,  "image": "images/play-icon.png",
+      "category": "Data Balance", "data": "1.6 GB", "validity": "of 12 GB"
+    },
+    {
+      "id": 5,  "image": "images/play-icon.png",
+      "category": "Data Balance", "data": "1.6 GB", "validity": "of 12 GB"
+    }
+  ]
+}
